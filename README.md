@@ -10,8 +10,11 @@ Welcome to the Little Lemon Bistro Newsletter App, a React Native mobile applica
 
 ## Screenshots
 
-![Welcome Screen](screenshots/welcome_screen.png)
-![Subscribe Screen](screenshots/subscribe_screen.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/fahad0samara/Coursera_Little.Lemo-_newsletter-sign-up/assets/90055525/e514ec17-88cb-4767-85b7-d1640367c127" alt="Image 1" width="30%">
+  <img src="https://github.com/fahad0samara/Coursera_Little.Lemo-_newsletter-sign-up/assets/90055525/8c52b2ba-838d-48d3-96ed-d4959f3d269b" alt="Image 2" width="30%">
+  <img src="https://github.com/fahad0samara/Coursera_Little.Lemo-_newsletter-sign-up/assets/90055525/9aada930-d1f6-495b-a24a-6eb71a2aaca6" alt="Image 3" width="30%">
+</div>
 
 ## Installation
 
@@ -33,6 +36,4 @@ Contributions are welcome! Feel free to submit issues or pull requests for any e
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-![Little Lemon Bistro Logo](assets/little-lemon-logo.png)
 
