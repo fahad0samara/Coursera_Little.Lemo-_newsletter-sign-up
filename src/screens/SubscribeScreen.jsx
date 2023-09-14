@@ -12,13 +12,15 @@ const SubscribeScreen = () => {
     <View style={styles.container}>
       <Image
         style={styles.logo}
-        source={ require("../../assets/little-lemon-logo-grey.png") }
+        source={require("../../assets/little-lemon-logo-grey.png")}
       />
-      <Text style={styles.textStyle}>Subscribe to our newsletter for our latest delicious recipes!</Text>
+      <Text style={styles.textStyle}>
+        Subscribe to our newsletter for our latest delicious recipes!
+      </Text>
 
-      <TextInput 
+      <TextInput
         style={styles.inputStyle}
-        placeholder='Type your Email'
+        placeholder="Type your Email"
         value={email}
         onChangeText={setEmail}
         keyboardType="email-address"
@@ -26,9 +28,9 @@ const SubscribeScreen = () => {
       />
 
       <Button
-        onPress={ () => Alert.alert("Thanks for subscribing,we'll be in touch!") }
+        onPress={() => Alert.alert("Thanks for subscribing,we'll be in touch!")}
         title="Subscribe"
-        color="#006600"
+        color="#018201"
         disabled={!checkValidEmail}
       />
     </View>
