@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to submit issues or pull requests for any e
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
+Note: This app is a sample project and does not represent any real-world restaurant or menu. It was created for educational purposes and as a demonstration of React Native app development.
