@@ -1,4 +1,4 @@
-x
+xLittle Lemon
 
 Welcome to the Little Lemon Bistro Newsletter App, a React Native mobile application that allows users to subscribe to our newsletter for the latest delicious recipes and updates.
 
